@@ -1,0 +1,19 @@
+{
+  "name": "mrsDoubtfire",
+  "version": "0.0.1",
+  "description": "Service to delete files controlled by RabbitMQ",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/perce/mrsDoubtfire.git"
+  },
+  "author": "Stefan Judis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perce/mrsDoubtfire/issues"
+  },
+  "homepage": "https://github.com/perce/mrsDoubtfire"
+}
